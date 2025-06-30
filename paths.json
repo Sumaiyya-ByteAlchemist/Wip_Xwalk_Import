@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/Wip_Xwalk_Import/:/",
-    "/content/Wip_Xwalk_Import/configuration:/.helix/config.json",
-    "/content/Wip_Xwalk_Import/metadata:/metadata.json"
+    "/content/Wip_Xwalk_Import_Sun/:/",
+    "/content/Wip_Xwalk_Import_Sun/configuration:/.helix/config.json",
+    "/content/Wip_Xwalk_Import_Sun/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/Wip_Xwalk_Import/"
+    "/content/Wip_Xwalk_Import_Sun/"
   ]
 }
